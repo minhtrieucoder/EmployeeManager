@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="quanLiNhanVien.Employee" Collapsed="true">
+    <Position X="4.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEAAAABAAAAEBAAAIAAAAAAAAAAAAAAACAIAAAg=</HashCode>
+      <FileName>Employee.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="quanLiNhanVien.Boss" Collapsed="true">
+    <Position X="0.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAgAAAEAAAAAAAAAAAAAAAAQAAAAAIAAAA=</HashCode>
+      <FileName>Boss.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="quanLiNhanVien.CommissionWorker" Collapsed="true">
+    <Position X="10" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAgAAAEAAAAAAAAAAEAAACBQAAAgAIAAAA=</HashCode>
+      <FileName>CommissionWorker.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="quanLiNhanVien.Date" Collapsed="true">
+    <Position X="10.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAkAAAAAAAAAAAAAAAAAAAAAAQCAAAAAAAAQAAAAAA=</HashCode>
+      <FileName>Date.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="quanLiNhanVien.HourlyWorker" Collapsed="true">
+    <Position X="4.5" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEAAAAAAEAAAABCAAAAAgAAAIAAAA=</HashCode>
+      <FileName>HourlyWorker.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="quanLiNhanVien.PieceWorker" Collapsed="true">
+    <Position X="6.5" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAAAAAAAAAAAAAAEAAAAAAAAAAAAAACAAAAAgAoAAAA=</HashCode>
+      <FileName>PieceWorker.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
